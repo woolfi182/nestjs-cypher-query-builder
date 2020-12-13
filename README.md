@@ -8,7 +8,7 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
 
-  <p align="center">Connect your application you a native graph database.</p>
+  <p align="center">Connect your application to a native graph database.</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -27,7 +27,7 @@
 
 ## Description
 
-[Neo4j](https://neo4j.com/) [Cypher-query-builder](https://github.com/jamesfer/cypher-query-builder) module for [Nest](https://github.com/nestjs/nest).
+[Neo4j](https://neo4j.com/) connector with [Cypher-query-builder](https://github.com/jamesfer/cypher-query-builder) for [Nest](https://github.com/nestjs/nest).
 
 ## Installation
 
