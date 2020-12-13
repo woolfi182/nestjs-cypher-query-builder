@@ -1,6 +1,6 @@
 {
     "name": "nestjs-cypher-query-builder",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Neo4j query builder for nestjs",
     "author": "Maksym Mosiura",
     "repository": "https://github.com/woolfi182/nestjs-cypher-query-builder.git",

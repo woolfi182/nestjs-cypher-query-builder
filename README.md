@@ -71,6 +71,8 @@ Add Neo4jModule for your `app.module.ts` file as:
 Sync
 
 ```ts
+import { Neo4jModule } from 'nestjs-cypher-query-builder';
+
 @Module({
   imports:[
     // ...
@@ -89,6 +91,8 @@ Sync
 Async
 
 ```ts
+import { Neo4jModule } from 'nestjs-cypher-query-builder';
+
 @Module({
   imports:[
     // ...

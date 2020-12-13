@@ -23,6 +23,6 @@ export type ConnectionWithDriver = Connection & {
 };
 
 export type Neo4jAsyncOptions = Pick<ModuleMetadata, "imports"> & {
-  useFactory: () => Promise<Neo4jOptions>;
+  useFactory: (..._args: any[]) => Promise<Neo4jOptions>;
   inject?: any[];
 };
